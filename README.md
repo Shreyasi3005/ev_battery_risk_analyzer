@@ -11,7 +11,7 @@ Thermal runaway is a hazardous condition in EV batteries that can lead to overhe
 The dataset represents EV battery charging behavior and system conditions during different charging stages.
 
 - **Source:** Kaggle  
-- **Path:** `/kaggle/input/ev-battery-charging-and-thermal-runaway-dataset`
+- **Path:** `https://www.kaggle.com/datasets/zara2099/ev-battery-charging-and-thermal-runaway-dataset`
 
 The dataset contains both numerical and categorical features related to battery health and system conditions.
 
